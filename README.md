@@ -6,7 +6,7 @@ For each run of the script, drifter will iterate over the list of statefiles lis
 drift_repos.txt. For each statefile listed in drift_repos.txt, if drift is detected, a slack 
 notification will be sent to the channel configured via the Slack webhook.
 
-![Screenshot](../assets/screenshot.png?raw=true)
+![Screenshot](./assets/screenshot.png?raw=true)
 
 ## Usage
 
