@@ -1,0 +1,2 @@
+github.com:geojaz/drifter-test/repo-1
+github.com:geojaz/drifter-test/repo-2
